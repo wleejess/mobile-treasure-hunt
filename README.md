@@ -37,3 +37,11 @@ The "Treasure Hunt Completed" page presents:
     Info about the final Clue location.
     A home button that takes the user to the Start Page.
 
+<img width="200" alt="image" src="https://github.com/wleejess/mobile-treasure-hunt/assets/29618012/3a040050-3349-4cac-8ead-9348c42f43b0">
+<img width="200" alt="image" src="https://github.com/wleejess/mobile-treasure-hunt/assets/29618012/ec9de151-8367-426b-a526-2f01afa22cdd">
+<img width="200" alt="image" src="https://github.com/wleejess/mobile-treasure-hunt/assets/29618012/32be897d-2c7f-4ba7-b45d-44bd12c70e40">
+</br>
+<img width="200" alt="image" src="https://github.com/wleejess/mobile-treasure-hunt/assets/29618012/918596cb-5f37-4ebe-b034-7fd950622bb7">
+<img width="200" alt="image" src="https://github.com/wleejess/mobile-treasure-hunt/assets/29618012/828e1bbb-cef6-4e46-99c6-9fd96de5092c">
+<img width="200" alt="image" src="https://github.com/wleejess/mobile-treasure-hunt/assets/29618012/a2a7bdba-3eb4-41e9-862b-460cfc997f94">
+
