@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Treasure Hunt</string>
+    <string name="rule_title">Rules of the Game</string>
+    <string name="rule1">1. Walk, don\'t run.</string>
+    <string name="rule2">2. Leave the place cleaner than you found it.</string>
+    <string name="rule3">3. You are permitted to use Google.</string>
+    <string name="rule4">4. Everything is located in California.</string>
+    <string name="rule5">5. After finding the first location, the second one
+        is within a walkable distance.</string>
+    <string name="rule6">6. You can only travel by walking, riding a bike, swimming,
+        or skateboarding. If you are caught flying, you will automatically lose.</string>
+    <string name="rule7">7. Upon winning, there may or may not be a pop quiz at the very
+    end to test if you have read all of the rules.</string>
+    <string name="rule8">8. You cannot share the contents of this game with anyone.</string>
+    <string name="rule9">9. There is technically more than one correct answer to each clue.
+        But that is not my answer. Therefore, while technically correct, it can still be wrong.</string>
+    <string name="rule10">10. Take a photo as proof, or it didn\'t happen.</string>
+    <string name="rule11">11. The last rule is that there is always an exception. So, go pick one
+        of the rules from above and simply break it!</string>
+
+    <string name="clue_page">Clue Page</string>
+    <string name="clue_solved_page">Clue Solved</string>
+    <string name="completed_page">Treasure Hunt Completed</string>
+    <string name="time_elapsed">Time Elapsed: %s</string>
+    <string name="time_paused">Paused Time: %s</string>
+    <string name="start_button">Start</string>
+    <string name="hint_button">Hint</string>
+    <string name="found_button">Found it</string>
+    <string name="quit_button">Quit</string>
+    <string name="continue_button">Continue</string>
+    <string name="home_button">Home</string>
+    <string name="clue_1">Fish are friends, not food!</string>
+    <string name="hint_1">Look respectfully, do not tap the glass.</string>
+    <string name="info_1">The Monterey Bay Aquarium is not only a popular tourist destination
+        but also a leader in ocean conservation and marine research. It plays a crucial role in educating
+        the public about marine life and the importance of preserving ocean ecosystems. </string>
+    <string name="clue_2">You can\'t teach an old dog new tricks, but you can teach them to climb!</string>
+    <string name="hint_2">Located in the city known for its golden attraction.</string>
+    <string name="info_2">Dogpatch Boulders is a premier indoor climbing gym nestled in San Francisco\'s vibrant
+        Dogpatch neighborhood, offering over 10,000 square feet of diverse climbing terrain for all skill levels.
+        With state-of-the-art facilities, including training areas and yoga studios, and a vibrant community atmosphere,
+        it\'s the perfect place for climbers to challenge themselves, connect with others, and embrace the thrill of the sport.</string>
+    <string name="error_msg">Hmm, that\'s not it. Try again!</string>
+    <string name="congrats_msg">Congratulations!</string>
+    <string name="congrats_msg2">You completed the treasure hunt and have become one with nature.</string>
+    <string name="total_time">Time Elapsed (seconds): %s</string>
+</resources>
